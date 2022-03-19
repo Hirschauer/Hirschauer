@@ -7,4 +7,4 @@ Bienvenue sur mon profil Github!!
 
 Language I use :
 
-![Text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/50px-Unofficial_JavaScript_logo_2.svg.png)
+![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/35px-Unofficial_JavaScript_logo_2.svg.png) ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png) ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/25px-CSS3_logo_and_wordmark.svg.png) ![PY](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/35px-Python-logo-notext.svg.png)
